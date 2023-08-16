@@ -4,6 +4,11 @@ This Script Provided by Codewife { https://github.com/code-wife codewife@gmail.c
 
 Please Feel free To Solve Errors Your Contributions are most welcome.
 
+PLAESE Solve the Problem In AdminPanel After Login when clicked on any available actions its just preloader loading For Unlimited Time, Cant Process...
+Plaese Help Me To Solve
+
+
+
 Admin Link
 
 www.yourparordomain.com/admin
