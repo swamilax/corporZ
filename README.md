@@ -5,9 +5,14 @@ This Script Provided by Codewife { https://github.com/code-wife codewife@gmail.c
 Please Feel free To Solve Errors Your Contributions are most welcome.
 
 Admin Link
+
 www.yourparordomain.com/admin
+
 Email - admin@admin.com
+
 Pass-   password
+
+
 
 
 A Completely Responsive Dynamic website using HTML, CSS, PHP Codeigniter-3, MySQL with full source code, Creating multiple web dynamic pages like contact, about etc.
@@ -24,4 +29,4 @@ Contains
 Please Feel free To Solve Errors Your Contributions are most welocome.
 
 Demo preview click here - https://www.youtube.com/watch?v=JuPQsPgcKwU&t=1s
- 
+
