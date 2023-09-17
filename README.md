@@ -15,7 +15,7 @@ Blank Admin Screen After Login.
 ## List
 ⚡️ @CodeWife (facebook.com/codewife) Main Devloper
 
-👩‍💻 @swamilax = (https://github.com/swamilax/) - Repository Manager, Front-end.
+👩‍💻 @swamilax = ([https://github.com/swamilax/](https://github.com/swamilax/Swami.Lax-profile)) - Repository Manager, Front-end.
 
 🧠 @agoenks29D = (https://github.com/agoenks29D)
 
