@@ -4,6 +4,9 @@
 A completely Open Source Responsive Dynamic website using HTML, CSS, PHP Codeigniter, Grocery CRUD, MySQL, Creating multiple web dynamic pages like contact, about etc. 
 
 
+![Logo](https://github.com/swamilax/corporZ/blob/main/assets/frontend/images/logo.png)
+
+
 # Contributor Team! 👋
 
 ## List
@@ -130,5 +133,3 @@ https://t.me/+VdOFk0P-K2cxYmQ1
 - [Twitter](https://twitter.com/code_wife)
 - [Website](codewife.com)
 - [Youtube-Channel](https://www.youtube.com/@codewife/)
-![Logo](https://github.com/swamilax/corporZ/blob/main/assets/frontend/images/logo.png)
-
