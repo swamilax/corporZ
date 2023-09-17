@@ -7,6 +7,10 @@ A completely Open Source Responsive Dynamic website using HTML, CSS, PHP Codeign
 ![Logo](https://github.com/swamilax/corporZ/blob/main/assets/frontend/images/logo.png)
 
 
+## Help Needed - To Solve Problem
+
+To Solve Error After Login in to Admin Dahsboard, Its Not Loading Anything.
+Blank Admin Screen After Login.
 # Contributor Team! 👋
 
 ## List
