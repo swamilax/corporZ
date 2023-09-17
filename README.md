@@ -16,9 +16,9 @@ A completely Open Source Responsive Dynamic website using HTML, CSS, PHP Codeign
 
 🧠 @agoenks29D = (https://github.com/agoenks29D)
 
-👯‍♀️ You can Feature Here Become Contributor
+👯‍♀️ @kishanmadhesiya = (https://github.com/kishanmadhesiya)
 
-🤔 You can Feature Here Become Contributor
+🤔 @piyushdolar = (https://github.com/piyushdolar)
 
 💬 You can Feature Here Become Contributor
 
