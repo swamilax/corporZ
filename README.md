@@ -1,7 +1,6 @@
 
-# CorporZ - Open Source - Dynamic Website in HTML, PHP , MySQL & CodeIgniter-v3 Framework with Grocery CRUD.
-
-A completely Open Source Responsive Dynamic website using HTML, CSS, PHP Codeigniter, Grocery CRUD, MySQL, Creating multiple web dynamic pages like contact, about etc. 
+# CorporZ -Open Source- Dynamic Website with Admin Panel.
+A completely Open Source Responsive Dynamic website including Admin Panel using HTML, CSS, PHP Codeigniter, Grocery CRUD, MySQL, Creating multiple web dynamic pages like contact, about etc. 
 
 
 ![Logo](https://github.com/swamilax/corporZ/blob/main/assets/frontend/images/logo.png)
