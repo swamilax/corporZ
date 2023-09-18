@@ -1,21 +1,26 @@
 
-# CorporZ -Open Source- Dynamic Website with Admin Panel.
-A completely Open Source Responsive Dynamic website including Admin Panel using HTML, CSS, PHP Codeigniter, Grocery CRUD, MySQL, Creating multiple web dynamic pages like contact, about etc. 
+# CorporZ-Open Source-Dynamic Website in HTML,PHP,MySQL & CodeIgniter-v3 Framework with Grocery CRUD.
+
+A completely Open Source Responsive Dynamic website using HTML, CSS, PHP Codeigniter, Grocery CRUD, MySQL, Creating multiple web dynamic pages like contact, about etc. 
 
 
 ![Logo](https://github.com/swamilax/corporZ/blob/main/assets/frontend/images/logo.png)
 
 
-## Help Needed - To Solve Problem
+## Help Needed - To Upgrade Codeigniter V3 to v4.3.0
 
-To Solve Error After Login in to Admin Dahsboard, Its Not Loading Anything.
-Blank Admin Screen After Login.
+Please Join The Telegram Group 
+
+Become a Contributor & Feature on Read.md
+Join Telegram Group- For Contribution & Discussion 
+
+https://t.me/+VdOFk0P-K2cxYmQ1
 # Contributor Team! 👋
 
 ## List
 ⚡️ @CodeWife (facebook.com/codewife) Main Devloper
 
-👩‍💻 @swamilax = ([https://github.com/swamilax/](https://github.com/swamilax/Swami.Lax-profile)) - Repository Manager, Front-end.
+👩‍💻 @swamilax = (https://github.com/swamilax/) - Repository Manager, Front-end.
 
 🧠 @agoenks29D = (https://github.com/agoenks29D)
 
@@ -33,12 +38,13 @@ Blank Admin Screen After Login.
 
 ## Roadmap
 - Stage I:- Solving The Current Admin Panel Problem.
+( Completed )
 
 - Stage II:- Upgrading Codeigniter v3 To Latest Codeigniter v4.3.0
 
 - Stage III:- adding New Design to Admin Panel.
 
-- Stage IV:- Improve Design With Boostrap 5.
+- Stage IV:- Improve Frontend Design With Boostrap 5.
 
 
 Please Suggest More Idea... Welcome..
@@ -86,20 +92,22 @@ Go to the project directory
 
 Add Database From "DB folder" to phpmyadmin
 
+(Note :- Use PHP 7.4 , Otherise It gives error)
+
 
 GoTo C://xammp/htdocs/corporZ/application/config/ 
 &  Edit File "config.php" 
 
-Line No. 26 as your Base URL, 
+Line No. 26 as your Base URL (Change it as per your configrations), 
 
 Edit File "database.php" for Database as per your details
 
 ```bash
  'hostname' => 'localhost',
 	'username' => 'root',
-	'password' => 'root',
+	'password' => '',
 	'database' => 'corporz',
-	'dbdriver' => 'mysql',
+	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
@@ -107,12 +115,35 @@ Edit File "database.php" for Database as per your details
 Start the XAMPP server.
 
 
-& Then GoTo http://yourparordomain.com/admin
-```bash
- Email -    admin@admin.com
+& Then GoTo
+ http://yourparordomain.com/admin
+or
+http://localhost/corporZ/admin
+or
+http://localhost/corporZ/auth
 
-  Pass-     password
+Use Credentials
+
+Email -    
+```bash
+admin@admin.com
 ```
+Password is 
+```bash
+password
+```
+## Screenshots
+
+![Homepage Screenshot](https://github.com/swamilax/corporZ/blob/main/screenshots-corporz/home.png)
+
+![Gallery Screenshot](https://github.com/swamilax/corporZ/blob/main/screenshots-corporz/gallery.png)
+
+![Contact-us Screenshot](https://github.com/swamilax/corporZ/blob/main/screenshots-corporz/contact-us.png)
+
+![About-us Screenshot](https://github.com/swamilax/corporZ/blob/main/screenshots-corporz/about-us.png)
+
+![Admin-Dashboard Screenshot](https://github.com/swamilax/corporZ/blob/main/screenshots-corporz/admin-dashboard.png)
+
 
 ## Contributing
 
