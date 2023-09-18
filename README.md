@@ -28,7 +28,7 @@ https://t.me/+VdOFk0P-K2cxYmQ1
 
 🤔 @piyushdolar = (https://github.com/piyushdolar)
 
-💬 You can Feature Here Become Contributor
+💬 @dimtrovich = (https://github.com/dimtrovich)
 
 📫 You can Feature Here Become Contributor
 
