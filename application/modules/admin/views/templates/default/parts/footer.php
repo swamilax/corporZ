@@ -1,5 +1,5 @@
 <div class="pull-right hidden-xs">
-	<b>Developed by </b> <a target="_blank" href="https://codewife.com/">Codewife</a>
+	<b>Maintained By </b> <a target="_blank" href="https://github.com/swamilax/corporZ/">CorporZ GitHub Team</a>
 </div>
 <strong>Copyright &copy; <?php echo date('Y') ?> .</strong> All rights reserved.
 
