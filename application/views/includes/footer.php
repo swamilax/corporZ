@@ -136,7 +136,7 @@ if (!empty($partners)) {
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <p>© Copyright <?php echo date('Y'); ?> <span id="year"></span> By CorporZ. All Rights Reserved<br />Developed By <a href="https://www.youtube.com/codewife" target="_blank" rel="noopener noreferrer"><span class="color">Codewife</span></a></p>
+                <p>© Copyright <?php echo date('Y'); ?> <span id="year"></span> By CorporZ. All Rights Reserved<br />Maintained By <a href="https://github.com/swamilax/corporZ/" target="_blank" rel="noopener noreferrer"><span class="color">CorporZ GitHub Team</span></a></p>
             </div>
         </div>
     </div>
