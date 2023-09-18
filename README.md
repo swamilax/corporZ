@@ -7,14 +7,6 @@ A completely Open Source Responsive Dynamic website using HTML, CSS, PHP Codeign
 ![Logo](https://github.com/swamilax/corporZ/blob/main/assets/frontend/images/logo.png)
 
 
-## Help Needed - To Upgrade Codeigniter V3 to v4.3.0
-
-Please Join The Telegram Group 
-
-Become a Contributor & Feature on Read.md
-Join Telegram Group- For Contribution & Discussion 
-
-https://t.me/+VdOFk0P-K2cxYmQ1
 # Contributor Team! 👋
 
 ## List
@@ -36,6 +28,14 @@ https://t.me/+VdOFk0P-K2cxYmQ1
 
 
 
+## Help Needed - To Upgrade Codeigniter V3 to v4.3.0
+
+Please Join The Telegram Group 
+
+Become a Contributor & Feature on Read.md
+Join Telegram Group- For Contribution & Discussion 
+
+https://t.me/+VdOFk0P-K2cxYmQ1
 ## Roadmap
 - Stage I:- Solving The Current Admin Panel Problem.
 ( Completed )
@@ -132,19 +132,6 @@ Password is
 ```bash
 password
 ```
-## Screenshots
-
-![Homepage Screenshot](https://github.com/swamilax/corporZ/blob/main/screenshots-corporz/home.png)
-
-![Gallery Screenshot](https://github.com/swamilax/corporZ/blob/main/screenshots-corporz/gallery.png)
-
-![Contact-us Screenshot](https://github.com/swamilax/corporZ/blob/main/screenshots-corporz/contact-us.png)
-
-![About-us Screenshot](https://github.com/swamilax/corporZ/blob/main/screenshots-corporz/about-us.png)
-
-![Admin-Dashboard Screenshot](https://github.com/swamilax/corporZ/blob/main/screenshots-corporz/admin-dashboard.png)
-
-
 ## Contributing
 
 Contributions are always welcome!
@@ -159,7 +146,20 @@ Become a Contributor & Feature on Read.md
 Join Telegram Group- For Contribution & Discussion 
 https://t.me/+VdOFk0P-K2cxYmQ1
 
-## Original Author' Detail
+## Screenshots
+
+![Homepage Screenshot](https://github.com/swamilax/corporZ/blob/main/screenshots-corporz/home.png)
+
+![Gallery Screenshot](https://github.com/swamilax/corporZ/blob/main/screenshots-corporz/gallery.png)
+
+![Contact-us Screenshot](https://github.com/swamilax/corporZ/blob/main/screenshots-corporz/contact-us.png)
+
+![About-us Screenshot](https://github.com/swamilax/corporZ/blob/main/screenshots-corporz/about-us.png)
+
+![Admin-Dashboard Screenshot](https://github.com/swamilax/corporZ/blob/main/screenshots-corporz/admin-dashboard.png)
+
+
+## Original Author's Detail
 
 - [@Codewife](https://www.github.com/Codewife)
 - [Youtube-Demo Video](https://www.youtube.com/watch?v=JuPQsPgcKwU)
