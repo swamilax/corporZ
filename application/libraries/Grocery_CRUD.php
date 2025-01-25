@@ -2292,8 +2292,8 @@ class grocery_CRUD_Layout extends grocery_CRUD_Model_Driver
 			$editor = $this->config->default_text_editor;
 			switch ($editor) {
 				case 'ckeditor':
-					$this->set_js_lib($this->default_texteditor_path.'/ckeditor/ckeditor.js');
-					$this->set_js_lib($this->default_texteditor_path.'/ckeditor/adapters/jquery.js');
+					$this->set_js_lib($this->default_texteditor_path.'/ckeditor1/ckeditor.js');
+					$this->set_js_lib($this->default_texteditor_path.'/ckeditor1/adapters/jquery.js');
 					$this->set_js_config($this->default_javascript_path.'/jquery_plugins/config/jquery.ckeditor.config.js');
 				break;
 
@@ -2778,13 +2778,13 @@ class grocery_CRUD_Layout extends grocery_CRUD_Model_Driver
 				case 'invisible':
 					unset($this->add_fields[$field_num]);
 					unset($fields[$field_num]);
-					continue;
+					// continue;
 				break;
 				case 'hidden':
 					$this->add_hidden_fields[] = $field_input;
 					unset($this->add_fields[$field_num]);
 					unset($fields[$field_num]);
-					continue;
+					// continue;
 				break;
 			}
 
@@ -2821,13 +2821,13 @@ class grocery_CRUD_Layout extends grocery_CRUD_Model_Driver
 				case 'invisible':
 					unset($this->edit_fields[$field_num]);
 					unset($fields[$field_num]);
-					continue;
+					// continue;
 				break;
 				case 'hidden':
 					$this->edit_hidden_fields[] = $field_input;
 					unset($this->edit_fields[$field_num]);
 					unset($fields[$field_num]);
-					continue;
+					// continue;
 				break;
 			}
 
@@ -2879,13 +2879,13 @@ class grocery_CRUD_Layout extends grocery_CRUD_Model_Driver
 			    case 'invisible':
 			    	unset($this->read_fields[$field_num]);
 			    	unset($fields[$field_num]);
-			    	continue;
+			    	// continue;
 			    	break;
 			    case 'hidden':
 			    	$this->read_hidden_fields[] = $field_input;
 			    	unset($this->read_fields[$field_num]);
 			    	unset($fields[$field_num]);
-			    	continue;
+			    	// continue;
 			    	break;
 			}
 

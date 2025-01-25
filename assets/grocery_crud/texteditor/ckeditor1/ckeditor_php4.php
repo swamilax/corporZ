@@ -514,7 +514,7 @@ class CKEditor
 		$file = str_replace("\\", "/", __FILE__);
 
 		if (!$selfPath || !$realPath || !$file) {
-			return "/ckeditor/";
+			return "/ckeditor1/";
 		}
 
 		$documentRoot = substr($realPath, 0, strlen($realPath) - strlen($selfPath));
