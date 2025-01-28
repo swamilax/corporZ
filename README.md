@@ -14,17 +14,17 @@ A completely Open Source Responsive Dynamic website using HTML, CSS, PHP Codeign
 
 👩‍💻 @swamilax = (https://github.com/swamilax/) - Repository Manager, Front-end.
 
-🧠 @agoenks29D = (https://github.com/agoenks29D)
+🧠 @agoenks29D = (https://github.com/agoenks29D) (Active Contributer)
 
-👯‍♀️ @kishanmadhesiya = (https://github.com/kishanmadhesiya)
+👯‍♀️ @kishanmadhesiya = (https://github.com/kishanmadhesiya) (Invited)
 
-🤔 @piyushdolar = (https://github.com/piyushdolar)
+🤔 @piyushdolar = (https://github.com/piyushdolar) (Invited)
 
-💬 @dimtrovich = (https://github.com/dimtrovich)
+💬 @dimtrovich = (https://github.com/dimtrovich) (Invited)
 
-👯‍♀️ @jagrutimetaliya = (https://github.com/jagrutimetaliya)
+👯‍♀️ @jagrutimetaliya = (https://github.com/jagrutimetaliya) (Invited)
 
-💬 @mahesh311094 = (https://github.com/mahesh311094)
+💬 @mahesh311094 = (https://github.com/mahesh311094) (Invited)
 
 📫 You can Feature Here Become Contributor
 
